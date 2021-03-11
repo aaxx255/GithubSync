@@ -51,10 +51,10 @@
 			}
 		],
 		"author": "@cenbomin",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
-		"icons": ["https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
-			"https://raw.githubusercontent.com/58xinian/icon/master/chsp.png"
+		"repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+		"script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/CONGHUA/chonghua.js",
+		"icons": ["http://github.gxfc.fun/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/AutoRead.png",
+			"http://github.gxfc.fun/58xinian/icon/master/chsp.png"
 		]
 	},{
 		"id": "txstockapp",
@@ -70,9 +70,9 @@
 			}
 		],
 		"author": "@cenbomin",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
-		"icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"
+		"repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+		"script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
+		"icons": ["http://github.gxfc.fun/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png","http://github.gxfc.fun/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"
 		]
 	},{
 		"id": "wlapp",
@@ -88,9 +88,9 @@
 			}
 		],
 		"author": "@cenbomin",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/wlapp.js",
-		"icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1069.JPG","https://raw.githubusercontent.com/CenBoMin/GithubSync/main/WLAPP/IMG_1068.JPG"
+		"repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+		"script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/WLAPP/wlapp.js",
+		"icons": ["http://github.gxfc.fun/CenBoMin/GithubSync/main/WLAPP/IMG_1069.JPG","http://github.gxfc.fun/CenBoMin/GithubSync/main/WLAPP/IMG_1068.JPG"
 		]
 	},{
 		"id": "shuqi",
@@ -112,9 +112,9 @@
 			}
 		],
 		"author": "@cenbomin",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js",
-		"icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png"
+		"repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+		"script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/SHUQI/shuqi.js",
+		"icons": ["http://github.gxfc.fun/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png", "http://github.gxfc.fun/CenBoMin/GithubSync/main/SHUQI/shuqi.png"
 		]
 	},{
 		"id": "dkdvideo",
@@ -141,9 +141,9 @@
 				}
 		],
 		"author": "@cenbomin",
-		"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-		"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js",
-		"icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png"
+		"repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+		"script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js",
+		"icons": ["http://github.gxfc.fun/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png", "http://github.gxfc.fun/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png"
 		]
 	},{
 	  "id": "runstep",
@@ -171,9 +171,9 @@
 			}
 	  ],
 	  "author": "@cenbomin",
-	  "repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-	  "script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep.js",
-	  "icons": ["https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png", "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png"
+	  "repo": ["http://github.gxfc.fun/CenBoMin/GithubSync"],
+	  "script": "http://github.gxfc.fun/CenBoMin/GithubSync/main/RUNSTEP/runstep.js",
+	  "icons": ["http://github.gxfc.fun/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png", "http://github.gxfc.fun/CenBoMin/GithubSync/main/RUNSTEP/runstep120X120.png"
 	  ]
 	}]
 }
